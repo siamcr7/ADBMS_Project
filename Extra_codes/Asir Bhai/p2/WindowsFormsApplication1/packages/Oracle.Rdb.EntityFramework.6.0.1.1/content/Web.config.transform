@@ -1,0 +1,10 @@
+﻿<configuration>
+  <configSections>
+  </configSections>
+  <system.data>
+    <DbProviderFactories>
+      <remove invariant="Oracle.DataAccess.RdbClient" />
+      <add name="Oracle Rdb Data Provider" invariant="Oracle.DataAccess.RdbClient" description=".NET Framework Data Provider for Oracle Rdb" type="Oracle.DataAccess.RdbClient.RdbFactory, Oracle.DataAccess.Rdb, Version=7.3.2.1, Culture=neutral, PublicKeyToken=24caf6849861f483" />
+    </DbProviderFactories>
+  </system.data>  
+</configuration>

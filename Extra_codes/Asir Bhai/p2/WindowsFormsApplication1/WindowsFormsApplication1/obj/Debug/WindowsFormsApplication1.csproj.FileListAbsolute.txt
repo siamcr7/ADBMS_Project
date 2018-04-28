@@ -1,0 +1,75 @@
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.insertion.resources
+C:\Users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dltmembr.resources
+C:\Users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\riaz\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dltmembr.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.insertion.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Chrome\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dltmembr.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.insertion.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Program.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.add_coach.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.coach.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Rdb.EntityFramework.dll
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.updatecoach.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Delcoach.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update_coach.resources
+F:\Connection Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.teaminsert.resources
